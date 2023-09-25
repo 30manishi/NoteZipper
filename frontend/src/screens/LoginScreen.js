@@ -69,7 +69,7 @@ const LoginScreen = () => {
           </Col>
         </Row>
       </div>
-    Login</MainScreen>
+    </MainScreen>
   )
 }
 
